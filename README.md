@@ -1,0 +1,2 @@
+# satanblog
+Django practice.
